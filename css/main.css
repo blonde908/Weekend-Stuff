@@ -1,6 +1,7 @@
 h1{
 	text-align:center;
-	color:#ffffff;
+	background-color:#ffffff;
+	color:black;
 	border:2pt solid #ffffff;
 }
 
@@ -11,7 +12,8 @@ h2{
 
 h4{
 	text-align:center;
-	color:#ffffff;
+	background-color:#ffffff;
+	color:black;
 	border:2pt solid #ffffff;
 }
 
